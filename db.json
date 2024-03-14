@@ -1,0 +1,48 @@
+{
+    "profesores": [
+        {
+            "nombre": "Rodro",
+            "apellido": "Lezcano",
+            "materias": [
+                {
+                    "nombre": "NodeJs Desde Cero"
+                },
+                {
+                    "nombre": "ReactJs Desde Cero"
+                },
+                {
+                    "nombre": "JS Desde Cero"
+                }
+            ]
+
+        }
+
+    ],
+    "alumnos":[
+        {
+            "nombre": "Perro",
+            "apellido": "Loco",
+            "promedio": 9
+        },
+        {
+            "nombre": "Brou",
+            "apellido": "Gogo",
+            "promedio": 10
+        }
+    ],
+    "cursos": [
+        {
+            "nombre":"NodeJs Desde Cero",
+            "duracion": 7,
+            "dificultad": "Intermedia"
+        },        {
+            "nombre":"ReactJs Desde Cero",
+            "duracion": 7,
+            "dificultad": "Intermedia"
+        },        {
+            "nombre":"Angular Desde Cero",
+            "duracion": 7,
+            "dificultad": "Intermedia"
+        }
+    ]
+}
